@@ -1,0 +1,53 @@
+body{
+    background-color: lightgreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.container{
+    background-color: darkslategray;
+    width: 100px;
+    height: 300px;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.red{
+    height: 60px;
+    width: 60px;
+    background-color: darkred;
+    border-radius: 50px;
+}
+
+.yellow{
+    height: 60px;
+    width: 60px;
+    background-color: darkkhaki;
+    border-radius: 50px;
+}
+
+.green{
+    height: 60px;
+    width: 60px;
+    background-color: darkgreen;
+    border-radius: 50px;
+} 
+
+.container div{
+    transition: all 0.6s;
+}
+
+.red:hover{
+    background-color: firebrick;
+}
+.yellow:hover{
+    background-color: yellow;
+}
+.green:hover{
+    background-color: lawngreen;
+}
