@@ -1,0 +1,139 @@
+.kayla {
+    min-height: 70vh;
+    background: #245852;
+    padding-top: 210px;
+    padding-bottom: 176px;
+}
+
+.large-container {
+    max-width: 1510px;
+    margin: 0 auto;
+}
+
+.kayla-title {
+    max-width: 500px;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 157%;
+
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.kayla-subtitle {
+    display: inline-block;
+    margin-top: 33px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 157%;
+
+    color: #FFFFFF;
+    margin-bottom: 57px;
+}
+
+.lets-start {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #FFFFFF;
+    background: #01996D;
+    border: 1px solid #01996D;
+    border-radius: 4px;
+    padding: 20px 50px;
+    text-decoration: none;
+}
+
+.kayla-video {
+    float: right;
+}
+
+
+
+
+.our-product {
+    padding-top: 120px;
+    padding-bottom: 400px;
+}
+
+.container-pr {
+    float: right;
+    padding-left: 80px;
+}
+.subtitle-pr {
+    margin: 0;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 157%;
+
+    color: #424242;
+}
+
+.title-pr {
+    max-width: 560px;
+    margin: 0;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 157%;
+
+    color: #01996D;
+}
+
+.descr-pr {
+    max-width: 500px;
+    margin: 0;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 31px;
+    color: #484848;
+    
+}
+
+.find {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #FFFFFF;
+
+    background: #01996D;
+    border: 1px solid #01996D;
+    border-radius: 4px;
+    padding: 20px 50px;
+    text-decoration: none;
+}
+
+.footer {
+    padding-top: 95px;
+    padding-bottom: 144px;
+    background: #245852;
+}
+
+.alivio-footer {
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 55px;
+
+    color: #FFFFFF;
+}
+
+.why-alivio, .solution, .community, .pricing {
+    margin-top: 60px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+}
+.container{
+    max-width: 1391px;
+    margin: 0 auto;
+}
+.girl-picture{
+    height: 450%;
+    width: 30%;
+}
+.container-footer{
+    display: block;
+    padding-left: 230px;
+}

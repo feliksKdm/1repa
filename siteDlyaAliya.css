@@ -1,0 +1,250 @@
+body{
+    margin: 0%;
+    display: block;
+}
+header{
+    height: 85px;
+    width: 100%;
+}
+hr{
+    margin: 0;
+    background: #D6D6D6;
+}
+
+.container{
+    display: flex;
+    height: 85px;
+    background: #FFFFFF;
+}
+
+.logodiv{
+    margin-top: 30px;
+    height: 100%;
+    margin-left: 280px;
+    width: 0%;
+}
+.logo{
+    margin-top: 8%;
+    margin-left: 75%;
+}
+
+.nav{
+    display: flex;
+    width: 60%;
+    height: 100%;
+    margin-left: 10%;
+    list-style-type: none; 
+    
+}
+
+.text-nav{
+    margin: 0;
+    padding: 30px 40px;
+    margin-left: 10px;
+    height: 100%;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    height: 30%;
+}
+
+.sign{
+    display: flex;
+    width: 40%;
+    height: 100%;
+    text-align: center;
+}
+
+.signin {
+    margin-left: 211px;
+    margin-right: 35px;
+    font-weight: 300;
+    font-size: 20px;
+    text-align: center;
+    width: 120px;
+    margin-top: 10px;
+
+}
+
+.start-trial {
+    font-weight: 400;
+    font-size: 20px;
+    color: #fff;
+    padding: 13px 26px;
+    background: #01996D;
+    border: 1px solid #01996D;
+    border-radius: 4px;
+    margin: 20px 0px;
+    text-decoration: none;
+    width: 120px;
+    height: 20%;
+    text-align: center;
+    
+}
+.startt{
+    margin: -3px 0px !important;
+}
+
+
+
+.BG{
+    background: url(img/BG.jpg) no-repeat center;
+    background-size: cover;
+    height: 91%;
+    width: 100%;
+    display: flex;
+}
+
+.textBG{
+    margin: 180px 200px;
+    text-align: left;
+}
+
+.beAware{
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 74px;
+
+    color: #01996D;
+    text-align: left;
+}
+.BG2{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 31px;
+
+    color: #484848;
+    text-align: left;
+}
+
+.btn-primary{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    background: #01996D;
+    border: 1px solid #01996D;
+    border-radius: 4px;
+    padding: 15 20;
+    text-align: left;
+
+    color: #FFFFFF;
+}
+.b2{
+    margin: 0;
+    height: 150%;
+    width: 100%;
+    display: block;
+}
+
+.b3{
+    margin-top: 8%;
+    margin-left: 275px;
+    margin-right: 232px;
+    height: 95%;
+    width: auto;
+}
+.displayflex2{
+    display: flex;
+}
+
+.text2-in-display-block{
+    display: block;
+    height: auto;
+    width: 50%;
+    
+}
+
+.p1-b3{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 157%;
+    margin: 0;
+}
+
+.p2-b3{
+    margin: 0;
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 157%;
+    color: #01996D;
+}
+.p1-none{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    /* or 30px */
+
+
+    color: #424242;
+}
+
+.display-flex3{
+    display: flex;
+
+}
+
+.block1{
+    display: block;
+    margin: 0;
+    padding: 5% 0% 0% 0%;
+    margin-left: 5%;
+}
+.block2{
+    display: block;
+    height: 80%;
+    width: auto;
+    padding: 20% 0% 0% 0%;
+    margin-left: 5%;
+}
+.block3{
+    margin-left: 5%;
+    display: block;
+    height: 80%;
+    width: auto;
+    padding: 9% 0% 0% 0%;
+}
+.num{
+    font-size: 5rem;
+    color: rgba(1, 153, 109, 0.3);
+}
+.title{
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 150%;
+    color: #000000;
+    position: relative;
+    top: -40px;
+    left: 50px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+.display-flex3 p{
+    font-size: 1rem;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    /* or 30px */
+
+
+    color: #424242;
+
+}
